@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Ellison%20Naz&fontSize=46&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=ML%20Researcher%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=8B949E" alt="header banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&height=60&lines=Ellison+Naz" alt="Ellison Naz" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=ML+Researcher+%C2%B7+Full-Stack+Developer" alt="subtitle" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellison-james-naz-8a2762388/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ellitellicity@gmail.com)
@@ -42,13 +44,6 @@ A World Cup analytics passion project. Live scores, match predictions, and a bra
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/ellitellicity-commits/ellitellicity-commits/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ellitellicity-commits&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellitellicity-commits&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=ellitellicity-commits&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="Streak Stats" />
 
