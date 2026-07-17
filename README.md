@@ -29,7 +29,7 @@ Incoming Computer Science student at York University's Lassonde School of Engine
 ---
 
 ### Research (GenTensor Lab)
-Research Assistant under Dr. Ping Luo, working on deep learning for immunotherapy research. More details coming soon.
+Research Assistant at GenTensor Lab under Dr. Ping Luo, developing a Mamba-GNN pipeline for TCR-epitope binding prediction to support cancer immunotherapy research. The pipeline integrates data across the IEDB and VDJdb databases, engineers sequence-based and physicochemical features, and models T-cell receptor–epitope interactions as a heterogeneous graph. Manuscript in preparation; code will be released publicly upon submission.
 
 ### RetainIQ (ThunderHacks 2026 Gold Sponsor Challenge)
 Churn prediction platform for B2B SaaS. Scores subscriber risk and drafts personalized retention outreach before a client walks.
