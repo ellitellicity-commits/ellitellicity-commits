@@ -29,7 +29,8 @@ Incoming Computer Science student at York University's Lassonde School of Engine
 ---
 
 ### Research (GenTensor Lab)
-Research Assistant at GenTensor Lab under Dr. Ping Luo, developing a Mamba-GNN pipeline for TCR-epitope binding prediction to support cancer immunotherapy research. The pipeline integrates data across the IEDB and VDJdb databases, engineers sequence-based and physicochemical features, and models T-cell receptor–epitope interactions as a heterogeneous graph. Manuscript in preparation; code will be released publicly upon submission.
+Research Assistant at GenTensor Lab under Dr. Ping Luo, building GraphTCR-Mamba, a heterogeneous graph and Mamba-based model for TCR-epitope binding prediction in cancer immunotherapy research. Submitted to PSB, Summer 2026. 
+- **[View repo →](https://github.com/ellitellicity-commits/GraphTCR-Mamba-Manuscript)**
 
 ### RetainIQ (ThunderHacks 2026 Gold Sponsor Challenge)
 Churn prediction platform for B2B SaaS. Scores subscriber risk and drafts personalized retention outreach before a client walks.
