@@ -12,7 +12,7 @@
 
 </div>
 
-Incoming Computer Science student at York University's Lassonde School of Engineering. ML Research Assistant under Dr. Ping Luo, working on deep learning models for cancer immunotherapy research.
+2nd Year Undergraduate Computer Science student at York University's Lassonde School of Engineering. Was an ML Research Assistant under Dr. Ping Luo, and worked on deep learning models for cancer immunotherapy research.
 
 <div align="center">
 
